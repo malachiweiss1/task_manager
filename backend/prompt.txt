@@ -1,0 +1,7 @@
+Hi, could you please generate a list of lists for me? 
+Each item in the list should represent a task and follow this structure: 
+[title, description, completed (either 1 or 0), task_group]. 
+I'd like the tasks to be randomly generated, with a variety of 20 to 25 tasks. 
+The 'task_group' can fall into only 4 categories: sport, learning, work, other. 
+Write only the list, nothing else!
+Thanks!
